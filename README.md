@@ -1,2 +1,4 @@
 # git_lecture
-ShinYooJung
+
+201902697 백유미
+201702032 신유정
